@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee321aad-269d-4e64-a3fd-05bbeeaccb8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog-api/api/blog-post/config/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/api/blog-post/controllers/blog-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/api/blog-post/models/blog-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/api/blog-post/models/blog-post.settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/api/blog-post/services/blog-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/extensions/users-permissions/models/User.settings.json" afterDir="false" />
+    <list default="true" id="ee321aad-269d-4e64-a3fd-05bbeeaccb8b" name="Default Changelist" comment="Adding unversioned files">
+      <change beforePath="$PROJECT_DIR$/.idea/Strapi-blog-tut.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Strapi-blog-tut.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597164776034</updated>
-      <workItem from="1597164778027" duration="3586000" />
+      <workItem from="1597164778027" duration="4412000" />
     </task>
+    <task id="LOCAL-00001" summary="The Strapi CMS backend is running without any issues. No front end">
+      <created>1597202122868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597202122869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding unversioned files">
+      <created>1597202221344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597202221344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,7 +98,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The Strapi CMS backend is running without any issues. No front end" />
+    <MESSAGE value="Adding unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding unversioned files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="893" y="470" width="491" height="350" key="Github.ShareDialog" timestamp="1597202601647">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="893" y="470" width="491" height="350" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1597202601647" />
     <state x="341" y="175" key="SettingsEditor" timestamp="1597164797215">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
